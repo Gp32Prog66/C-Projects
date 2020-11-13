@@ -1,0 +1,13 @@
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.exe
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.deps.json
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.runtimeconfig.json
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.runtimeconfig.dev.json
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.dll
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\bin\Debug\netcoreapp3.1\Pi Program.pdb
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.csprojAssemblyReference.cache
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.AssemblyInfoInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.AssemblyInfo.cs
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.csproj.CoreCompileInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.dll
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.pdb
+E:\Users\Public\John\Documents\C# Projects\Pi Program\Pi Program\obj\Debug\netcoreapp3.1\Pi Program.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.exe
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.deps.json
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.json
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.runtimeconfig.dev.json
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.dll
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\bin\Debug\netcoreapp3.1\FileReader.pdb
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.csprojAssemblyReference.cache
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfoInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.AssemblyInfo.cs
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.csproj.CoreCompileInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.dll
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.pdb
+E:\Users\Public\John\Documents\C# Projects\Exercises\FileReader\FileReader\obj\Debug\netcoreapp3.1\FileReader.genruntimeconfig.cache

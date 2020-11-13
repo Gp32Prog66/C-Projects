@@ -1,0 +1,13 @@
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.exe
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.deps.json
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.json
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.runtimeconfig.dev.json
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.dll
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\bin\Debug\netcoreapp3.1\Demos.pdb
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.csprojAssemblyReference.cache
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.AssemblyInfoInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.AssemblyInfo.cs
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.csproj.CoreCompileInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.dll
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.pdb
+E:\Users\Public\John\Documents\C# Projects\Demos\Demos\obj\Debug\netcoreapp3.1\Demos.genruntimeconfig.cache
