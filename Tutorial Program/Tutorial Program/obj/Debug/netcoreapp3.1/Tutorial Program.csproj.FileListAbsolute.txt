@@ -1,0 +1,13 @@
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.exe
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.deps.json
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.runtimeconfig.json
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.runtimeconfig.dev.json
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.dll
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\bin\Debug\netcoreapp3.1\Tutorial Program.pdb
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.csproj.CoreCompileInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.AssemblyInfoInputs.cache
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.AssemblyInfo.cs
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.dll
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.pdb
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.genruntimeconfig.cache
+E:\Users\Public\John\Documents\C# Projects\Tutorial Program\Tutorial Program\obj\Debug\netcoreapp3.1\Tutorial Program.csprojAssemblyReference.cache
